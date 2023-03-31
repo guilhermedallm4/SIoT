@@ -1,0 +1,40 @@
+{
+    "timestamp": 1680242206.8996139,
+    "devices": [
+        {
+            "id": "ebca8c81c4d50747224edf",
+            "ip": "192.168.18.31",
+            "active": 2,
+            "ablilty": 0,
+            "encrypt": true,
+            "productKey": "key54vrth5askhsj",
+            "name": "Lab",
+            "key": "9d22dbefca963362",
+            "mac": "fc:67:1f:c8:1d:58",
+            "token": "",
+            "wf_cfg": "",
+            "dev_type": "default",
+            "err": "No response",
+            "origin": "broadcast",
+            "ver": "3.3"
+        },
+        {
+            "id": "eb07e4774524c261415nbg",
+            "name": "TV",
+            "key": "9d22dbefca963362",
+            "mac": "",
+            "category": "infrared_tv",
+            "product_name": "TV",
+            "product_id": "lplun31mo1xaonwz",
+            "biz_type": 0,
+            "model": "",
+            "sub": true,
+            "icon": "https://images.tuyaus.com/smart/icon/001453365846342fhj9e/2234434f86d00a26359b2a9e5e967640.png",
+            "uuid": "eb07e4774524c261415nbg",
+            "node_id": "c87de8bc6822336f",
+            "ip": "",
+            "origin": "cloud",
+            "ver": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Lab",
+        "id": "ebca8c81c4d50747224edf",
+        "key": "9d22dbefca963362",
+        "mac": "fc:67:1f:c8:1d:58",
+        "category": "wnykq",
+        "product_name": "Smart IR",
+        "product_id": "rqhxdyusjrwxyff6",
+        "biz_type": 0,
+        "model": "IR-CBU-1",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/bay1647703186347M8vb/e1dc9ee0d62389b7d4b8c71d54a9ec63.png",
+        "uuid": "60af2994e4b9556f"
+    },
+    {
+        "name": "TV",
+        "id": "eb07e4774524c261415nbg",
+        "key": "9d22dbefca963362",
+        "mac": "",
+        "category": "infrared_tv",
+        "product_name": "TV",
+        "product_id": "lplun31mo1xaonwz",
+        "biz_type": 0,
+        "model": "",
+        "sub": true,
+        "icon": "https://images.tuyaus.com/smart/icon/001453365846342fhj9e/2234434f86d00a26359b2a9e5e967640.png",
+        "uuid": "eb07e4774524c261415nbg",
+        "node_id": "c87de8bc6822336f"
+    }
+]
