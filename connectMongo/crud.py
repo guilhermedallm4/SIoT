@@ -39,4 +39,6 @@ def crudMongoDB(option, collection, dictionary_mongo, oneValue=True, newValue={}
             else:
                 result = collection.update_many(dictionary_mongo, newValue)
                 print(result.modified_count)
+        case other:
+                print("Please type a valid option.")
         
