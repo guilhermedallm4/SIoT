@@ -6,7 +6,7 @@ port = 27017
 #Conecte ao MongoDB. Para se conectar ao MongoDB, 
 # você precisa criar uma instância do cliente do MongoDB.
 
-def connectMongo(host, documment):
+def connectMongo(host, port, documment):
     try:
         client = MongoClient(host, port)
         db = client[documment]
