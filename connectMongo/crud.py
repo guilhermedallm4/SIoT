@@ -6,7 +6,7 @@ host = 'locahost'
 port = 27017
 documment = 'teste'
 
-db = connect.connectMongo(host, documment)
+db = connect.connectMongo(host, port, documment)
 
 def crudMongoDB(option, collection, dictionary_mongo, oneValue=True, newValue={}):
     collection = db[collection]
