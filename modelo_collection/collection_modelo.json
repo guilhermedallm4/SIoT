@@ -1,0 +1,17 @@
+[
+    {   
+        "modelo_id": "",
+        "modelo_Nome": "",
+        "modelo_Categoria":[
+            {
+                "categoria_Id": "",
+                "categoria_Nome": "",
+                "categoria_Funcao": [{
+
+                }
+                ]
+        
+            }
+        ]
+    }
+]
