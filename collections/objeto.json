@@ -1,0 +1,22 @@
+[
+    {   
+        "obj_Id": "",
+        "obj_MACRede": "",
+        "obj_Nome": "",
+        "obj_Proprietario": "",
+        "obj_Modelo": "",
+        "obj_Marca": "",
+        "obj_Categoria": "",
+        "obj_Funcao": [
+
+        ],
+        "obj_Restricao": [
+
+        ],
+        "obj_Limitacao": [
+            
+        ],
+        "obj_Acesso": "",
+        "obj_Localizacao": ""
+    }
+]
