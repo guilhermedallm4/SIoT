@@ -1,0 +1,30 @@
+{
+    "objeto": [
+        {
+            "obj_Acesso": "Private",
+            "obj_Categoria": "wnykq",
+            "obj_Funcao": false,
+            "obj_Id": "ebca8c81c4d50747224edf",
+            "obj_Limitacao": false,
+            "obj_Localizacao": false,
+            "obj_MACRede": "fc:67:1f:c8:1d:58",
+            "obj_Marca": "Smart IR",
+            "obj_Modelo": "IR-CBU-1",
+            "obj_Nome": "Lab",
+            "obj_Proprietario": "99766777"
+        },
+        {
+            "obj_Acesso": "Private",
+            "obj_Categoria": "infrared_tv",
+            "obj_Funcao": false,
+            "obj_Id": "eb07e4774524c261415nbg",
+            "obj_Limitacao": false,
+            "obj_Localizacao": false,
+            "obj_MACRede": "",
+            "obj_Marca": "TV",
+            "obj_Modelo": "",
+            "obj_Nome": "TV",
+            "obj_Proprietario": "99766777"
+        }
+    ]
+}
