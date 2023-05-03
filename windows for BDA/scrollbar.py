@@ -82,7 +82,7 @@ def importObjetos():
 					'obj_Marca': i['product_name'],
 					'obj_Categoria': i['category'],
 					'obj_Funcao': i['status'],
-                    'obj_Restricao': [],
+                    			'obj_Restricao': [],
 					'obj_Limitacao': [],
 					'obj_Acesso': 0,
 					'obj_Localizacao': i['lat'] + ', ' + i['lon']
