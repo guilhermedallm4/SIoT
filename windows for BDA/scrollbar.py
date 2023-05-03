@@ -81,10 +81,11 @@ def importObjetos():
 					'obj_Modelo': i['model'],
 					'obj_Marca': i['product_name'],
 					'obj_Categoria': i['category'],
-					'obj_Funcao': False,
-					'obj_Limitacao': False,
-					'obj_Acesso': 'Private',
-					'obj_Localizacao': False
+					'obj_Funcao': i['status'],
+                    'obj_Restricao': [],
+					'obj_Limitacao': [],
+					'obj_Acesso': 0,
+					'obj_Localizacao': i['lat'] + ', ' + i['lon']
 		})
 
 	return importMongo
